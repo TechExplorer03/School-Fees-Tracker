@@ -76,9 +76,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me at [sreemoyee20032gmail.com].
+If you have any questions or suggestions, feel free to open an issue or contact me at [sreemoyee2003@gmail.com].
 
 ---
 
 Thank you for using School Fees Tracker! We hope this tool makes managing student fees easier and more efficient.
-```
+
